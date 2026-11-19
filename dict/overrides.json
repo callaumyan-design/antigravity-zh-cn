@@ -1,0 +1,18 @@
+{
+  "Hey there, what should we build today?": "嗨，今天我们要做点什么？",
+  "Welcome back. Where should we pick up?": "欢迎回来。我们从哪里继续？",
+  "Good to see you. What's next?": "很高兴见到你。下一步做什么？",
+  "Ask anything, @ to mention": "随便问，@ 提及",
+  "Ask anything, @ to mention, / for actions": "随便问，@ 提及，/ 调出操作",
+  "Message subagent, @ to mention": "给子智能体发消息，@ 提及",
+  "Message subagent, @ to mention, / for actions": "给子智能体发消息，@ 提及，/ 调出操作",
+  "Listening. Ask anything.": "正在聆听，随便问吧。",
+  "Message input": "消息输入框",
+  "Next card": "下一张",
+  "No Project": "无项目",
+  "This Computer": "本机",
+  "Medium": "中",
+  "Low": "低",
+  "High": "高",
+  "New conversation": "新对话"
+}

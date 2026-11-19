@@ -1,0 +1,15 @@
+# Google 的程序文件与打包产物：不入库（版权 + 体积）
+app/
+app.asar.orig
+app.asar.orig.unpacked/
+src/
+build/
+build-*/
+out/
+release/
+LATEST_BUILD.txt
+*.asar
+
+# 中间产物：只保留合并后的 dict/
+work/
+node_modules/
